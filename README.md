@@ -121,5 +121,8 @@ Estoy siempre interesado en proyectos desafiantes donde pueda aplicar mis habili
 
 ---
 
-<div align="center">
-  <p><small>Última actualización: Mayo 2025</small></p> </div>
+<div className="pt-6 border-t border-skin-border/50 w-full">
+            <p className="text-sm text-skin-muted text-center">
+              © {currentYear}
+            </p>
+</div>
