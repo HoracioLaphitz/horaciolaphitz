@@ -123,6 +123,6 @@ Estoy siempre interesado en proyectos desafiantes donde pueda aplicar mis habili
 
 <div className="pt-6 border-t border-skin-border/50 w-full">
             <p className="text-sm text-skin-muted text-center">
-              © {currentYear}
+              © 2026
             </p>
 </div>
