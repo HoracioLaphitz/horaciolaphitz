@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="180" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWlld3NpdWpxd21jOHNyN243dW00ZmR6M2lxem14OXV4bGZrOGduMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" alt="Saludo animado programador y analista de datos" />
-</div>
-
 <h1 align="center">¡Hola! 👋 Soy Horacio Laphitz</h1>
 <h3 align="center">Data Analyst & Python Developer</h3>
 
