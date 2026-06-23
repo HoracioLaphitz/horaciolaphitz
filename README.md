@@ -109,9 +109,9 @@ Estoy siempre interesado en proyectos desafiantes donde pueda aplicar mis habili
 ### <p align="left">🔥 Estadísticas de GitHub</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hache22&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="Estadísticas de lenguajes de Horacio Laphitz en GitHub"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=horaciolaphitz&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="Estadísticas de lenguajes de Horacio Laphitz en GitHub"  />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hache22&show_icons=true&locale=es&theme=dracula&hide_border=false&rank_icon=github&count_private=true" height="170" alt="Estadísticas generales de Horacio Laphitz en GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=horaciolaphitz&show_icons=true&locale=es&theme=dracula&hide_border=false&rank_icon=github&count_private=true" height="170" alt="Estadísticas generales de Horacio Laphitz en GitHub" />
   <br><br>
   </div>
 
