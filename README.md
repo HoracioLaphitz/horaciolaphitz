@@ -1,124 +1,40 @@
-<h1 align="center">¡Hola! 👋 Soy Horacio Laphitz</h1>
-<h3 align="center">Data Analyst & Python Developer</h3>
+### ¡Hola! 👋 Soy Horacio Laphitz
+**Data Analyst & Python Developer**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/horacio-laphitz/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn Horacio Laphitz" />
-  </a>
-  <a href="mailto:tu_email@example.com"> <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Email Horacio Laphitz" />
-  </a>
-  </div>
+Analista de datos y desarrollador Python enfocado en el ciclo de vida completo del dato: extracción y limpieza (ETL), análisis exploratorio (EDA), modelos de machine learning y dashboards interactivos para comunicar resultados de forma clara y accionable.
 
----
+## 🚀 Proyectos destacados
 
-### <p align="left">👩‍💻 Sobre Mí</p>
+- **[Data-Analysis-Ecommerce](https://github.com/HoracioLaphitz/Data-Analysis-Ecommerce)** — chat en lenguaje natural sobre 100k+ órdenes de e-commerce (LangChain + Groq llama3-70b + Streamlit + dataset Olist Brazil).
+- **[visualizando-lo-incierto](https://github.com/HoracioLaphitz/visualizando-lo-incierto)** — plataforma experimental de semiótica y cognición de la probabilidad (Streamlit).
+- **[MarketBasketAnalytics](https://github.com/HoracioLaphitz/MarketBasketAnalytics)** — Market Basket Analysis con Python y Power BI.
+- **[cancer_issue](https://github.com/HoracioLaphitz/cancer_issue)** — pipeline de machine learning end-to-end sobre el dataset Wisconsin Breast Cancer (en desarrollo).
 
-Soy un Analista de Datos  y Desarrollador Python con una pasión por descifrar las historias que los datos pueden contar. Mi experiencia se centra en el ciclo de vida completo del dato: desde la **extracción y limpieza (ETL)**, pasando por el **análisis exploratorio (EDA)**, hasta la creación de **modelos de aprendizaje automático** y el desarrollo de **dashboards interactivos** para la visualización de resultados.
+Portfolio completo: [horaciolaphitz.github.io](https://horaciolaphitz.github.io) · más proyectos en mis [repositorios públicos](https://github.com/HoracioLaphitz?tab=repositories).
 
-Busco constantemente optimizar procesos, garantizar la **integridad y calidad de la información**, y comunicar hallazgos de manera clara y accionable para impulsar decisiones basadas en evidencia. Disfruto enfrentando desafíos complejos y estoy comprometido con el aprendizaje continuo en el vasto campo de la ciencia de datos y la inteligencia artificial.
+## 🛠️ Tecnologías
 
----
+**Lenguajes:** Python · SQL · TypeScript
 
-### <p align="left">🚀 Mis Proyectos Destacados</p>
+**Datos y ML:** pandas · NumPy · scikit-learn · XGBoost · TensorFlow / Keras
 
-<p align="left">
-  <em>Actualmente actualizando esta sección con mis trabajos más recientes. ¡Vuelve pronto!</em>
-  <br>Puedes ver algunos de mis repositorios públicos directamente en mi perfil.
-</p>
+**Visualización y dashboards:** Streamlit · Power BI · Plotly · matplotlib / seaborn
 
----
+**Desarrollo web:** Django · Astro · React
 
-### <p align="left">🛠️ Lenguajes, Herramientas y Tecnologías</p>
+**Herramientas:** Jupyter Notebook · Docker · Git / GitHub Actions
 
-<p align="left">
-  <strong>Lenguajes de Programación:</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="Python" title="Python"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R" title="R"/>&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-plain-wordmark.svg" height="40" alt="SQL" title="SQL"/>&nbsp;
-  <br><br>
+## 💡 Áreas de expertise
 
-  <strong>Análisis y Modelado de Datos (Python):</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" alt="NumPy" title="NumPy"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="Pandas" title="Pandas"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-learn" title="Scikit-learn"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height="40" alt="PyTorch" title="PyTorch"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="40" alt="TensorFlow" title="TensorFlow"/>&nbsp; <br><br>
+Análisis Exploratorio de Datos (EDA) · Limpieza y Preprocesamiento de Datos · Modelado Predictivo · Machine Learning (supervisado y no supervisado) · Pipelines ETL · Bases de Datos SQL · Visualización de Datos
 
-  <strong>Visualización de Datos:</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original-wordmark.svg" height="40" alt="Matplotlib" title="Matplotlib"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original-wordmark.svg" height="40" alt="Seaborn" title="Seaborn"/>&nbsp;
-  <br><br>
+## 🌱 Actualmente enfocado en
 
-  <strong>Bases de Datos:</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL" title="MySQL"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" title="PostgreSQL"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" height="40" alt="SQLite" title="SQLite"/>&nbsp;
-  <br><br>
+- Profundizar en Deep Learning (TensorFlow/Keras).
+- Explorar soluciones de MLOps para producción y monitoreo de modelos.
 
-  <strong>Desarrollo Web (Python Frameworks):</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" alt="Django" title="Django"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" alt="Flask" title="Flask"/>&nbsp;
-  <br><br>
+## 🤝 Abierto a colaborar
 
-  <strong>Herramientas y Plataformas:</strong><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter" title="Jupyter"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="Git" title="Git"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="GitHub" title="GitHub"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker" title="Docker"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="VS Code" title="VS Code"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" height="40" alt="Pytest" title="Pytest"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle" title="Kaggle"/>&nbsp;
-  </p>
+Interesado en proyectos de Data Science, desarrollo Python y análisis de datos. Si tenés una idea o proyecto, ¡conectemos!
 
----
-
-### <p align="left">💡 Áreas de Expertise y Conceptos Clave</p>
-
-<p align="left">
-  <code>Análisis Exploratorio de Datos (EDA)</code>&nbsp;
-  <code>Limpieza y Preprocesamiento de Datos</code>&nbsp;
-  <code>Modelado Predictivo</code>&nbsp;
-  <code>Machine Learning (Supervisado y No Supervisado)</code>&nbsp;
-  <code>Visualización de Datos e Informes</code>&nbsp;
-  <code>Desarrollo de Pipelines ETL</code>&nbsp;
-  <code>Bases de Datos SQL</code>&nbsp;
-  <code>Testing y Calidad de Código</code>&nbsp;
-  <code>Resolución de Problemas Complejos</code>
-</p>
-
----
-
-### <p align="left">🌱 Actualmente Aprendiendo / Enfocado en</p>
-
-* Profundizando en técnicas avanzadas de **Deep Learning** (PyTorch/TensorFlow).
-* Explorando soluciones de **MLOps** para la puesta en producción y monitoreo de modelos.
-* Mejorando mis habilidades en **Big Data Technologies** (Spark, Hadoop).
----
-
-### <p align="left">🤝 Busco Colaborar / Abierto a Oportunidades</p>
-
-<p align="left">
-Estoy siempre interesado en proyectos desafiantes donde pueda aplicar mis habilidades para generar impacto. Abierto a oportunidades de colaboración en proyectos de Data Science, desarrollo Python y análisis de datos.
-</p>
-<p align="left">
-  Si tienes alguna idea, proyecto o simplemente quieres conectar, ¡no dudes en contactarme!
-</p>
-
----
-
-### <p align="left">🔥 Estadísticas de GitHub</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=horaciolaphitz&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="Estadísticas de lenguajes de Horacio Laphitz en GitHub"  />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=horaciolaphitz&show_icons=true&locale=es&theme=dracula&hide_border=false&rank_icon=github&count_private=true" height="170" alt="Estadísticas generales de Horacio Laphitz en GitHub" />
-  <br><br>
-  </div>
-
----
-
-<div className="pt-6 border-t border-skin-border/50 w-full">
-            <p className="text-sm text-skin-muted text-center">
-              © 2026
-            </p>
-</div>
+[GitHub](https://github.com/HoracioLaphitz) · [LinkedIn](https://www.linkedin.com/in/horacio-laphitz) · [Kaggle](https://www.kaggle.com/horaciolaphitz)
