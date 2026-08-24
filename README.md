@@ -33,10 +33,7 @@
 <br/>
 
 ## 🟣 Sobre mí
-
-[#-sobre-mí]
-
-Soy **Horacio "Hache" Laphitz**, técnico en sistemas y desarrollador basado en Posadas, Misiones, Argentina, trabajando 100% remoto. Actualmente me desempeño como **Data / Infrastructure Specialist y Technical Lead** en **Insights Apps LLC**, donde lidero la arquitectura de datos, backend e infraestructura de **RDEX (Real Deal Exchange)**, una plataforma marketplace inmobiliaria B2B2C multi-tenant.
+ Soy **Horacio Laphitz**, técnico en sistemas y desarrollador basado en Posadas, Misiones, Argentina, trabajando 100% remoto. Actualmente me desempeño como **Data / Infrastructure Specialist y Technical Lead** en **Insights Apps LLC**, donde lidero la arquitectura de datos, backend e infraestructura de **RDEX (Real Deal Exchange)**, una plataforma marketplace inmobiliaria B2B2C multi-tenant.
 
 Mi enfoque combina ingeniería de datos, arquitectura backend y coordinación técnica con un interés sostenido en el desarrollo de **agentes de IA**, procesamiento de **datos geoespaciales** y la construcción de sistemas con lógica directa, mínimas dependencias y manejo de errores coherente. Trabajo habitualmente con una flota de agentes de codificación IA, donde el desafío central pasa por la coordinación arquitectónica más que por el volumen de código.
 
@@ -50,8 +47,6 @@ Mi enfoque combina ingeniería de datos, arquitectura backend y coordinación t�
 ---
 
 ## 🟣 Tech Stack
-
-[#-tech-stack]
 
 **Lenguajes**
 
@@ -77,8 +72,6 @@ Mi enfoque combina ingeniería de datos, arquitectura backend y coordinación t�
 
 ## 🟣 Expertise en IA / ML
 
-[#-expertise-en-ia--ml]
-
 <div align="center">
 
 | Dominio | Nivel | Detalle |
@@ -95,8 +88,6 @@ Mi enfoque combina ingeniería de datos, arquitectura backend y coordinación t�
 ---
 
 ## 🟣 Proyectos Destacados
-
-[#-proyectos-destacados]
 
 <details>
 <summary><b>🏢 RDEX — Real Deal Exchange</b></summary>
@@ -182,8 +173,6 @@ Pipeline de machine learning end-to-end (limpieza, modelado, evaluación) sobre 
 
 ## 🟣 Experiencia
 
-[#-experiencia]
-
 **Data / Infrastructure Specialist & Technical Lead** · Insights Apps LLC
 *Remoto · Actualidad*
 
@@ -223,8 +212,6 @@ Base de experiencia en soporte técnico y administración previa a la transició
 
 ## 🟣 Logros
 
-[#-logros]
-
 <div align="center">
 
 | Reconocimiento | Detalle |
@@ -240,8 +227,6 @@ Base de experiencia en soporte técnico y administración previa a la transició
 ---
 
 ## 🟣 Certificaciones
-
-[#-certificaciones]
 
 **Google**
 
@@ -263,24 +248,15 @@ Base de experiencia en soporte técnico y administración previa a la transició
 
 ## 🟣 Perfiles
 
-[#-perfiles]
 
 <div align="center">
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/horaciolaphitz)
-[![LeetCode](https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/tu_usuario)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/tu_usuario)
-[![HackerRank](https://img.shields.io/badge/HackerRank-5B21B6?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/tu_usuario)
-
-*(Kaggle es tu perfil real y verificado — actualizá los enlaces de LeetCode / GeeksforGeeks / HackerRank con tus usuarios reales antes de publicar)*
-
 </div>
 
 ---
 
 ## 🟣 Analíticas de GitHub
-
-[#-analíticas-de-github]
 
 <div align="center">
 
@@ -295,8 +271,6 @@ Base de experiencia en soporte técnico y administración previa a la transició
 
 ## 🟣 Trofeos de GitHub
 
-[#-trofeos-de-github]
-
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=HoracioLaphitz&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" width="100%"/>
@@ -307,7 +281,6 @@ Base de experiencia en soporte técnico y administración previa a la transició
 
 ## 🟣 Actividad de Contribuciones
 
-[#-actividad-de-contribuciones]
 
 <div align="center">
 
@@ -319,7 +292,6 @@ Base de experiencia en soporte técnico y administración previa a la transició
 
 ## 🟣 Snake de Contribuciones
 
-[#-snake-de-contribuciones]
 
 <div align="center">
 
@@ -332,8 +304,6 @@ Base de experiencia en soporte técnico y administración previa a la transició
 ---
 
 ## 🟣 Enfoque Actual
-
-[#-enfoque-actual]
 
 ```yaml
 enfoque_actual:
@@ -356,14 +326,13 @@ enfoque_actual:
 
 ## 🟣 Conectemos
 
-[#-conectemos]
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@ejemplo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/horacio-laphitz/)
 [![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HoracioLaphitz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://horaciolaphitz.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://horaciolaphitz.vercel.app)
 
 </div>
 
