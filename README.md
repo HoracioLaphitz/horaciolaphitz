@@ -39,8 +39,8 @@ Mi enfoque combina ingeniería de datos, arquitectura backend y coordinación t�
 
 **Abierto a:**
 
-- 🔹 Roles de Data Engineering / Backend Engineering
-- 🔹 Proyectos de arquitectura de sistemas multi-tenant
+- 🔹 Roles de Data 
+- 🔹 Proyectos de arquitectura de sistemas 
 - 🔹 Ingeniería de agentes de IA y orquestación de LLMs
 - 🔹 Colaboraciones en ciencia de datos y machine learning
 
