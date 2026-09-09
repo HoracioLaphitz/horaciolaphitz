@@ -288,21 +288,6 @@ Base de experiencia en soporte técnico y administración previa a la transició
 
 </div>
 
----
-
-## 🟣 Snake de Contribuciones
-
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/HoracioLaphitz/HoracioLaphitz/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-*(Requiere activar el workflow de GitHub Actions `platane/snk` en el repositorio `HoracioLaphitz/HoracioLaphitz` para generarse)*
-
-</div>
-
----
-
 ## 🟣 Enfoque Actual
 
 ```yaml
@@ -310,14 +295,11 @@ enfoque_actual:
   aprendiendo:
     - Deep Learning (TensorFlow / Keras)
     - MLOps para monitoreo y despliegue de modelos en producción
-  construyendo:
-    - RDEX — plataforma marketplace inmobiliaria multi-tenant
-    - Portfolio personal (Astro, React, Tailwind, Framer Motion)
   explorando:
     - Orquestación de agentes de IA
     - Procesamiento de datos geoespaciales
   abierto_a:
-    - Roles de Data Engineering / Backend Engineering
+    - Roles de Data 
     - Proyectos de ingeniería de agentes de IA
     - Colaboraciones en ciencia de datos
 ```
