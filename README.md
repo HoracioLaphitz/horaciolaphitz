@@ -269,25 +269,6 @@ Base de experiencia en soporte técnico y administración previa a la transició
 
 ---
 
-## 🟣 Trofeos de GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HoracioLaphitz&theme=algolia&no-frame=true&column=4&margin-w=15&margin-h=15" width="100%"/>
-
-</div>
-
----
-
-## 🟣 Actividad de Contribuciones
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HoracioLaphitz&theme=react-dark&hide_border=true&bg_color=0d0221&color=A78BFA&line=8B5CF6&point=ffffff" width="100%"/>
-
-</div>
-
 ## 🟣 Enfoque Actual
 
 ```yaml
